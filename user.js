@@ -1,7 +1,7 @@
 var user = {
   name: 'Brennan Boman',
   location: 'West Jordan',
-  occupations: ['Client Representative'],
+  occupations: ['Secretary', 'PSA', 'Client Representative'],
   hobbies: [
     {
       name: 'Golf',
